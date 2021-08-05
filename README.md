@@ -5,7 +5,7 @@ Libraries Used
 - Random(used to choose a random line/word/phrase from the 'hangman_words.txt' file)
 
 DESCRIPTION
-This is a simple hangman game made with Python you can run in your terminal.
+- This is a simple hangman game made with Python you can run in your terminal.
 
 NOTES
 - The 'hangman_words.txt' file contains a list of words and phrases that will be chosen at random by program
