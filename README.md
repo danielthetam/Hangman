@@ -8,7 +8,7 @@ DESCRIPTION
 - This is a simple hangman game made with Python you can run in your terminal.
 
 NOTES
-- The 'hangman_words.txt' file contains a list of words and phrases that will be chosen at random by program
+- The 'hangman_words.txt' file contains a list of words and phrases that will be chosen at random by the program
 - The 'hangman_art.txt' file contains ASCII art of the complete hangman. 
   For each letter the player gets wrong, it increases the number of rows that will be printed from the ASCII art.
   Once all the rows have been printed, meaning the ASCII art is complete, the game will end.
