@@ -3,27 +3,6 @@ from time import sleep
 
 
 class Hangman:
-    """
-<<<<<<< HEAD
-    LOGIC USED
-=======
-    MAIN LOGIC
->>>>>>> d0d879430da0e4e24169c2a9a31235c2aac87fb7
-    In the constructor, first choose a word and declare the needed starting variables.
-    Then, run the game, print the number of letters in the word and ask the user to guess
-    If the guessed letter is valid and isn't wrong, reveal the word and check if the word has been completed
-    If the guessed letter is valid but is wrong, increment the number of rows shown and add it to their list of used letters.
-<<<<<<< HEAD
-    
-    DESCRIPTION OF PROGRAM
-=======
-
-    DESCRIPTION
->>>>>>> d0d879430da0e4e24169c2a9a31235c2aac87fb7
-    This is a simple hangman game you can run in your terminal.
-    Feel free to change the number of lives a player can have by editing the art in the 'hangman_art' text file. Lives are determined by the number of rows in the art.
-    Feel free to edit the pool of random words and phrases that will be used in the game through the 'hangman_words' text file.
-    """
 
     def __init__(self):
         # Choosing a Random Word
